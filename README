@@ -1,9 +1,6 @@
-/**
- * name: imooc
- *
- * describe: This is a php framework
- *
- * version: 1.0
- *
- * author: Kevin181
- */
+# imooc
+name: imooc
+describe: This is a php framework
+version: 1.0
+author: Kevin181
+
